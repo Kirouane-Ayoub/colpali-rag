@@ -1,0 +1,5 @@
+git+https://github.com/illuin-tech/colpali
+pdf2image
+einops
+google-generativeai
+gradio
